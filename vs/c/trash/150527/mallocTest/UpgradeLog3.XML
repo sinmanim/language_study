@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mallocTest">
+</Property><Property Name="Solution File" Value="D:\workspace\c\trash\150527\mallocTest\mallocTest.sln">
+</Property><Property Name="Date" Value="2015년 5월 28일 목요일">
+</Property><Property Name="Time" Value="오전 1:18:37">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="2" Project="mallocTest" Source="mallocTest\mallocTest.vcproj" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: D:\workspace\c\trash\150527\mallocTest\mallocTest\mallocTest.vcproj&#xA;Line: 1&#xA;Column: 1&#xA;Error Message:&#xA;인식할 수 없는 입력 서명입니다.&#xA;&#xA;The file 'D:\workspace\c\trash\150527\mallocTest\mallocTest\mallocTest.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="mallocTest" Source="mallocTest\mallocTest.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="mallocTest" Source="mallocTest\mallocTest.vcproj" Description="Not Converted">
+</Event></UpgradeLog>

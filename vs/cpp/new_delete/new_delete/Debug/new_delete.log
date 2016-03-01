@@ -1,0 +1,2 @@
+﻿new_delete.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+  new_delete.vcxproj -> D:\workspace\vs\cpp\new_delete\Debug\new_delete.exe

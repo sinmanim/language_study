@@ -1,0 +1,3 @@
+﻿  TestMain.cpp
+TestMain.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+  TestMain.vcxproj -> D:\workspace\vs\cpp\temp\160229\TestMain\Debug\TestMain.exe

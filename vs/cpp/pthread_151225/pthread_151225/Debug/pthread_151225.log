@@ -1,0 +1,2 @@
+﻿  pthread_151225.c
+d:\workspace\cpp\pthread_151225\pthread_151225\pthread_151225.c(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'pthread.h': No such file or directory

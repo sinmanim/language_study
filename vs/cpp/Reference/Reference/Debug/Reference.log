@@ -1,0 +1,2 @@
+﻿reference.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+  Reference.vcxproj -> D:\workspace\vs\cpp\Reference\Debug\Reference.exe

@@ -1,0 +1,24 @@
+
+
+#include<stdio.h>
+#include<stdlib.h>
+
+void main()
+{
+	char *string ="this is a test string";
+	char buf[100]={0,};
+
+	int count=0;
+
+	while(*string != NULL)
+	{
+		if(isalpha(*string)){
+			buf[count++]=*string;
+		}
+
+		string++;
+	}
+
+	puts(string);
+}
+

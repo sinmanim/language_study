@@ -1,0 +1,8 @@
+
+ANIMAL = FROG
+VAR := "$(ANIMAL) DOG CAT"
+ANIMAL = PORCUPINE
+VAR := "$(ANIMAL) DOG CAT"
+
+test :
+	@echo $(VAR)

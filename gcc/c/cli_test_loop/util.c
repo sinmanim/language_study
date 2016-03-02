@@ -9,6 +9,6 @@ void move_cur(int x, int y)
 
 void clear_screen()
 {
-	printf("\033[2J\n");
+	printf("\033[2J");
 }
 

@@ -2,7 +2,7 @@
 #include "util.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>		// time()
+#include <time.h>	// time()
 #include <unistd.h>	// getpid()
 
 
@@ -17,14 +17,12 @@ int main()
 
 	rdInit();
 
-	clear_screen();
-	move_cur(0, 0);
-   clear_screen();	
-
-
-	for (ndx=0; ndx<5; ndx++)
+	for (; ; )
 	{
-		printf( "%d %d\n", ndx, getRdNum() );
+		clear_screen();
+		printf( "%d %d", ndx, getRdNum() );
+		move_cur(1, 0);
+		usleep(500);
 	}
 
 	return 0;

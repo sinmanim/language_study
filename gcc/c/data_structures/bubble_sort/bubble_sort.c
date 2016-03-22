@@ -14,13 +14,9 @@ int main()
 	int i, buf[10];
 	srand(time(NULL));	
 
-	printf("size of buf -> %d\n", sizeof(buf));
-
-	printf("bubble sort start\n\n");
-
 	for(i=0; i<10; i++)
 	{
-		buf[i] = (long) rand() * 100 / RAND_MAX;
+		buf[i] = (long) rand() % 100 + 1;
 		printf("%3d ", buf[i]);
 	}
 

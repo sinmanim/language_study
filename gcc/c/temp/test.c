@@ -4,56 +4,24 @@
 #include <string.h>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-void test(int** array, int size);
+void test(int* array, int size);
 
 void main(void)
 {
 	int buf[10] = {1,2,3,4,5,6,7,8,};
-	int *bufC = &buf;
-	test(&bufC, 10);
+	test(buf, sizeof(buf)/sizeof(int));
 }
 
-void test(int** array, int size)
+void test(int* array, int size)
 {
 	int i;
-	//printf("%d ", (*array)[3]);
 
-	int *tt = (int*) malloc(size*sizeof(int));
-	//int tt[10]={};
-
-	memcpy(tt, &(*array), size*sizeof(int));
-
-	for(i=0; i<10; i++)
+	for(i=0; i<size; i++)
 	{	
-		printf("%d ", tt[i]);
+		printf("%d ", array[i]);
 	}
 
-	free(tt);
+	printf("\n");
 }
 
 

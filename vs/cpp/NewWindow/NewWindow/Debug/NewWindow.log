@@ -1,5 +1,0 @@
-﻿  NewWindow.cpp
-d:\workspace\language_study\vs\cpp\newwindow\newwindow\newwindow.cpp(35): warning C4302: '형식 캐스팅': 'LPWSTR'에서 'WORD'(으)로 잘립니다.
-d:\workspace\language_study\vs\cpp\newwindow\newwindow\newwindow.cpp(40): warning C4302: '형식 캐스팅': 'LPWSTR'에서 'WORD'(으)로 잘립니다.
-NewWindow.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
-  NewWindow.vcxproj -> D:\workspace\language_study\vs\cpp\NewWindow\Debug\NewWindow.exe

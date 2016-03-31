@@ -1,0 +1,6 @@
+﻿  NewWindow.cpp
+NewWindow.cpp(35): warning C4302: '형식 캐스팅': 'LPWSTR'에서 'WORD'(으)로 잘립니다.
+NewWindow.cpp(40): warning C4302: '형식 캐스팅': 'LPWSTR'에서 'WORD'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+d:\workspace\language_study\vs\cpp\newwindow\newwindow\newwindow.cpp : fatal error C1083: 컴파일러 중간 파일 파일을 열 수 없습니다. 'D:\workspace\language_study\vs\cpp\NewWindow\Release\NewWindow.ipdb': Permission denied
+LINK : fatal error LNK1257: 코드를 생성하지 못했습니다.

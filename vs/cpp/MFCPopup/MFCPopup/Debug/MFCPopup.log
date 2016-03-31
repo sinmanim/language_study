@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  MFCPopupView.cpp
+  MFCPopupDoc.cpp
+  MFCPopup.cpp
+  MainFrm.cpp
+  코드를 생성하고 있습니다...
+MainFrm.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+  MFCPopup.vcxproj -> D:\workspace\language_study\vs\cpp\MFCPopup\Debug\MFCPopup.exe

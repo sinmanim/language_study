@@ -1,0 +1,3 @@
+﻿  코드를 생성하고 있습니다.
+d:\workspace\language_study\vs\cpp\mfcwindow\mfcwindow\stdafx.cpp : fatal error C1083: 컴파일러 중간 파일 파일을 열 수 없습니다. 'D:\workspace\language_study\vs\cpp\MFCWindow\Release\MFCWindow.ipdb': Permission denied
+LINK : fatal error LNK1257: 코드를 생성하지 못했습니다.
